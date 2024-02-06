@@ -415,7 +415,7 @@ transform:scale(1.05);
 	
 }
 
-.call2 img
+.call2 img 
 {
 	width:45rem;
 	height:40rem;
@@ -426,9 +426,10 @@ transform:scale(1.05);
 	width:50rem;
 	margin-left:6rem;
 	height:37rem;
-	filter:none;
 	
 }
+
+
 #projects .project-img img {
 	transition: 0.3s ease transform;
 }
@@ -829,3 +830,9 @@ transform:scale(1.05);
 }
   
   }
+
+
+
+
+
+  
